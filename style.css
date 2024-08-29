@@ -1,16 +1,10 @@
-.main{
-    
-    height: 100px;
-    
+body,html{
+background-color: black;
+color: white;
 }
-.black{
-    background-color: black;
-}
-#top{
-    height: auto;
-    width: 200px;
-    padding-left: 20px;
-    padding: auto;
-    padding-bottom: 20px;
-    padding-top: 0px;
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    color: wheat;
 }
